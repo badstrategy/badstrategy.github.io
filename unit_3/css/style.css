@@ -57,3 +57,7 @@ img {
 	font-size: 30px;
 
 }
+
+.fit {
+	max-width: 100%;
+}
