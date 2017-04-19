@@ -1,5 +1,6 @@
 body {
 	background-color:#dddbdb;
+	height: 100%;
 
 }
 
@@ -20,9 +21,14 @@ h2 {
 h3 {
 	font-size: 
 	font-family:;
+	text-align: center;
 	text-transform: uppercase;
 	color: #ffffff;
 
+}
+
+div {
+	height: 200px;
 }
 
 p {
@@ -49,6 +55,7 @@ img {
 
 #list {
 	color: #ffffff;
+	padding:15px;
 }
 
 #slogan {
@@ -60,4 +67,9 @@ img {
 
 .fit {
 	max-width: 100%;
+}
+
+.section {
+	height: 100%;
+	align-content: center;
 }
