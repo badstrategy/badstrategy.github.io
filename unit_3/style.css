@@ -1,0 +1,53 @@
+body {
+	background-color:#dddbdb;
+
+}
+
+h1 {
+	text-align: center; 
+	font-size: 45px;
+	font-family:;
+	color: #762727;
+}
+
+h2 {
+	font-size: 
+	font-family:;
+	color: #762727;
+
+}
+
+h3 {
+	font-size: 
+	font-family:;
+
+	color: #000000;
+
+}
+
+p {
+	font-style:;
+	font-size:;
+	color: #000000;
+}
+
+ul {
+	align-items: 
+
+}
+
+ul li {
+	background: #808080; 
+	margin: 5px;
+}
+
+img {
+
+}
+
+#slogan {
+	text-align: center;
+	font-style: italic;
+	font-size: 30px;
+
+}
