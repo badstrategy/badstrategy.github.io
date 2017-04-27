@@ -6,13 +6,6 @@ body {
 
 }
 
-h1 {
-	text-align: center
-	font-family:'Cinzel', serif; 
-	font-size: 45px;
-	color: #762727;
-}
-
 h2 {
 	font-family:'Cinzel', serif;
 	font-size: 
@@ -21,7 +14,7 @@ h2 {
 }
 
 h3 {
-	font-size: 
+	font-size: ; 
 	font-family:'Cinzel', serif;
 	text-align: center;
 	text-transform: uppercase;
