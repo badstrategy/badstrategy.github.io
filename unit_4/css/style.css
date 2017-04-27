@@ -87,6 +87,8 @@ img {
 }
 
 .logo {
+	display: block;
+	margin: auto;
 	max-height: 50px;
 	vertical-align: top;
 }
