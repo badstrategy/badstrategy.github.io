@@ -79,11 +79,11 @@ img {
 }
 
 #navigation-bar {
-	height: 30px;
+	height: 45px;
 	color: #808080;
 }
 
 .logo {
-	max-width: 20%;
+	max-height: 30px;
 	vertical-align: top;
 }
