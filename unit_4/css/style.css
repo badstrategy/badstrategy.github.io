@@ -78,8 +78,9 @@ img {
 	align-content: center;
 }
 
-#topnav {
+#navigation-bar {
 	height: 30px;
+	color: #808080;
 }
 
 .logo {
