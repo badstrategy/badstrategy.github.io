@@ -50,6 +50,7 @@ ul li {
 	list-style-type: none;
 	width: 30%;
 	display: inline-block;
+	vertical-align: top;
 }
 
 img {
@@ -62,7 +63,7 @@ img {
 }
 
 #slogan {
-	text-align: center;
+	text-align: right;
 	font-family: 'Righteous', cursive;
 	font-style: italic;
 	font-size: 30px;
