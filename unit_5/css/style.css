@@ -1,0 +1,125 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel|Open+Sans|Righteous');
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer  {
+	background-color: #FF957E
+	border: 1px black solid;
+	padding: 20px;
+}
+
+div, section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+body {
+	background-color:#dddbdb;
+	height: 100%;
+
+}
+
+h2 {
+	font-family:'Cinzel', serif;
+	font-size: ;
+	color: #762727;
+	margin-bottom: 0px;
+}
+
+h3 {
+	font-size: ; 
+	font-family:'Cinzel', serif;
+	text-align: center;
+	text-transform: uppercase;
+	color: #ffffff;
+
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	font-style:;
+	font-size:;
+	color: #000000;
+}
+
+ul {
+	align-items: center 
+
+}
+
+ul li {
+	background: #808080; 
+	list-style-type: none;
+	width: 30%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+img {
+
+}
+
+.list {
+	color: #ffffff;
+	padding:15px;
+}
+
+.offerings {
+	align-content: center;
+	height: 270px;
+
+}
+#slogan {
+	text-align: left;
+	font-family: 'Righteous', cursive;
+	font-style: italic;
+	font-size: 20px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.fit {
+	max-width: 100%;
+}
+
+#one {
+	;
+}
+
+#two {
+	;
+}
+
+#three {
+	;
+}
+
+#navigation-bar {
+	width: 100%;
+	height: 65px;
+	color: #808080;
+}
+
+#logo {
+	display: block;
+	margin: auto;
+	max-height: 50px;
+	vertical-align: top;
+}
