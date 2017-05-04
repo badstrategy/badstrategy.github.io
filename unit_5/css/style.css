@@ -16,9 +16,10 @@ footer  {
 	background-color: #FF957E
 	border: 1px black solid;
 	padding: 20px;
+	text-align: center;
 }
 
-div  {
+section  {
 	background-color: #FFE2B8;
 	border: 1px black solid;
 }
@@ -74,9 +75,6 @@ img {
 	padding:15px;
 }
 
-.offerings {
-	height: 270px;
-
 }
 #slogan {
 	text-align: left;
@@ -92,15 +90,15 @@ img {
 }
 
 #one {
-	;
+	height: 270px;
 }
 
 #two {
-	;
+	height: 270px;
 }
 
 #three {
-	;
+	height: 270px;
 }
 
 #navigation-bar {
