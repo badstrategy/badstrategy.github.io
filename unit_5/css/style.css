@@ -97,7 +97,7 @@ footer  {
 	text-align: center;
 }
 
-section  {
+section, div  {
 	background-color: #FFE2B8;
 	border: 1px black solid;
 }
