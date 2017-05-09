@@ -1,4 +1,27 @@
 @import url('https://fonts.googleapis.com/css?family=Cinzel|Open+Sans|Righteous');
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A;
+	border: 1px black solid;
+	padding: 20px
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+	padding: 20px
+}
+
+div {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px
+}
 
 body {
 	background-color:#dddbdb;
@@ -8,13 +31,13 @@ body {
 
 h2 {
 	font-family:'Cinzel', serif;
-	font-size: 
+	font-size:
 	color: #762727;
 	margin-bottom: 0px;
 }
 
 h3 {
-	font-size: ; 
+	font-size: ;
 	font-family:'Cinzel', serif;
 	text-align: center;
 	text-transform: uppercase;
@@ -34,12 +57,12 @@ p {
 }
 
 ul {
-	align-items: center 
+	align-items: center
 
 }
 
 ul li {
-	background: #808080; 
+	background: #808080;
 	list-style-type: none;
 	width: 30%;
 	display: inline-block;
