@@ -1,0 +1,87 @@
+@import url('https://fonts.googleapis.com/css?family=Cinzel|Open+Sans|Righteous');
+
+body {
+	background-color:#dddbdb;
+	height: 100%;
+
+}
+
+h2 {
+	font-family:'Cinzel', serif;
+	font-size: 
+	color: #762727;
+	margin-bottom: 0px;
+}
+
+h3 {
+	font-size: ; 
+	font-family:'Cinzel', serif;
+	text-align: center;
+	text-transform: uppercase;
+	color: #ffffff;
+
+}
+
+div {
+	height: 200px;
+}
+
+p {
+	font-family: 'Open Sans', sans-serif;
+	font-style:;
+	font-size:;
+	color: #000000;
+}
+
+ul {
+	align-items: center 
+
+}
+
+ul li {
+	background: #808080; 
+	list-style-type: none;
+	width: 30%;
+	display: inline-block;
+	vertical-align: top;
+}
+
+img {
+
+}
+
+.list {
+	color: #ffffff;
+	padding:15px;
+}
+
+#slogan {
+	text-align: left;
+	font-family: 'Righteous', cursive;
+	font-style: italic;
+	font-size: 20px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.fit {
+	max-width: 100%;
+}
+
+.section {
+	height: 100%;
+	align-content: center;
+}
+
+#navigation-bar {
+	width: 100%;
+	height: 65px;
+	color: #808080;
+}
+
+.logo {
+	display: block;
+	margin: auto;
+	max-height: 50px;
+	vertical-align: top;
+}
