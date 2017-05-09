@@ -110,5 +110,5 @@ img {
 }
 
 #wrapper {
-	height: auto;
+	height: inherit;
 }
