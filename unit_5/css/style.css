@@ -1,9 +1,33 @@
 @import url('https://fonts.googleapis.com/css?family=Cinzel|Open+Sans|Righteous');
 
+header {
+	background-color: #FFED74;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A
+	border: 1px black solid;
+	padding: 20px;
+}
+
+footer  {
+	background-color: #FF957E
+	border: 1px black solid;
+	padding: 20px;
+	text-align: center;
+}
+
+section, div  {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+	padding: 20px
+}
+
 body {
 	/*background-color:#dddbdb;*/
 	height: 100%;
-
 }
 
 h2 {
@@ -14,12 +38,11 @@ h2 {
 }
 
 h3 {
-	font-size: ; 
+	font-size: ;
 	font-family:'Cinzel', serif;
 	text-align: center;
 	text-transform: uppercase;
 	color: #ffffff;
-
 }
 
 p {
@@ -30,21 +53,17 @@ p {
 }
 
 ul {
-	align-items: center 
-
+	align-items: center
 }
 
 ul li {
-	background: #808080; 
+	background: #808080;
 	list-style-type: none;
 	width: 30%;
 	display: inline-block;
 	vertical-align: top;
 }
 
-img {
-
-}
 
 .list {
 	color: #ffffff;
@@ -76,28 +95,4 @@ img {
 	margin: auto;
 	max-height: 50px;
 	vertical-align: top;
-}
-
-header {
-	background-color: #FFED74;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-nav {
-	background-color: #E8C66A
-	border: 1px black solid;
-	padding: 20px;
-}
-
-footer  {
-	background-color: #FF957E
-	border: 1px black solid;
-	padding: 20px;
-	text-align: center;
-}
-
-section, div  {
-	background-color: #FFE2B8;
-	border: 1px black solid;
 }
