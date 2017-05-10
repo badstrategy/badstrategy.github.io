@@ -27,6 +27,7 @@ h2 {
 	font-size: ;
 	color: #762727;
 	margin-bottom: 0px;
+	line-height: 0;
 }
 
 h3 {
@@ -35,6 +36,7 @@ h3 {
 	text-align: center;
 	text-transform: uppercase;
 	color: #ffffff;
+	line-height: 0;
 }
 
 p {
@@ -91,6 +93,7 @@ ul li {
 #three_column {
 	padding: 20px;
 	background-color: #ffffff
+	border: 3px #808080 solid;
 }
 
 #left {
