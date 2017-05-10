@@ -1,29 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Cinzel|Open+Sans|Righteous');
 
-#three_column {
-	background-color: #FFB7CF;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-#left {
-	background-colr: #E582A2;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-#middle {
-	background-colr: #EE82A2;
-	border: 1px black solid;
-	padding: 20px;
-}
-
-#right {
-	background-colr: #E582A2;
-	border: 1px black solid;
-	padding: 20px;
-}
-
 header {
 	background-color: #FFED74;
 	border: 1px black solid;
@@ -118,4 +94,28 @@ ul li {
 	margin: auto;
 	max-height: 50px;
 	vertical-align: top;
+}
+
+#three_column {
+	background-color: #FFB7CF;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#left {
+	background-colr: #E582A2;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#middle {
+	background-colr: #E55B88;
+	border: 1px black solid;
+	padding: 20px;
+}
+
+#right {
+	background-colr: #E582A2;
+	border: 1px black solid;
+	padding: 20px;
 }
