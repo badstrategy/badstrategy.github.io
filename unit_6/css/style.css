@@ -99,13 +99,13 @@ ul li {
 #three_column {
 	background-color: #FFB7CF;
 	border: 1px black solid;
-	padding: 20px;
+	padding: 4%;
 }
 
 #left {
 	background-color: #E582A2;
 	border: 1px black solid;
-	padding: 3%;
+	padding: 2%;
 	float: left;
 	width: 30%;
 }
@@ -113,7 +113,7 @@ ul li {
 #middle {
 	background-color: #E55B88;
 	border: 1px black solid;
-	padding: 3%;
+	padding: 2%;
 	float: none;
 	width: 30%;
 }
@@ -121,7 +121,7 @@ ul li {
 #right {
 	background-color: #E55;
 	border: 1px black solid;
-	padding: 3%;
+	padding: 2%;
 	float: right;
 	width: 30%
 }
