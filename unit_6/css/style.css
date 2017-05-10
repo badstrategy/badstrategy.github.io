@@ -81,13 +81,12 @@ ul {
 }
 
 ul li {
-	background: #808080;
+	/*background: #808080;*/
 	list-style-type: none;
 	width: 30%;
 	display: inline-block;
 	vertical-align: top;
 }
-
 
 .list {
 	/*color: #ffffff;*/
