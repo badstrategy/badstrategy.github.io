@@ -110,6 +110,7 @@ ul li {
 	background-color: #ffffff;
 	border: 3px #808080 solid;
 	max-width: 1200px;
+	float: left;
 }
 
 .clearfix:after {
