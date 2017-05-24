@@ -89,7 +89,8 @@ ul li {
 }
 
 #wrapper {
-	align-items: center;
+	width: 1125px;
+	margin: auto;
 }
 
 #navigation-bar {
