@@ -56,7 +56,11 @@ ul li {
 	width: 30%;
 	display: inline-block;
 	vertical-align: top;
+}
+
+.services {
 	height: auto;
+	width: 100%
 }
 
 .list {
