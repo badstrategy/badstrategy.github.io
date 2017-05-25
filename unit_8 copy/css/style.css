@@ -161,12 +161,20 @@ ul li {
 }
 
 @media only screen and (max-width: 960px) {
+	h2 {
+		padding-left: 1em;
+}
+
+p {
+	padding: 0em 1.2em;
+}
+
 ul {
-	padding: 0px;
+	padding: 0em 1em 0em 1em;
 }
 
 ul li {
-	width: 320px;
+	width: 305px;
 	display: inline;
 }
 
