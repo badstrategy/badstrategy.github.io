@@ -20,7 +20,7 @@ footer  {
 section, div  {
 	padding: 10px 0px 10px 0px;
 	display: block;
-	margin: auto;
+	margin: 0 auto;
 }
 
 body {
