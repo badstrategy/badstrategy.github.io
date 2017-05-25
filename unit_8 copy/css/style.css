@@ -18,8 +18,7 @@ footer  {
 }
 
 section, div  {
-	padding: 20 0 20 0;
-	max-width: 1200px;
+	padding: 0;
 }
 
 body {
@@ -109,7 +108,7 @@ ul li {
 
 #three_column {
 	background-color: #ffffff;
-	max-width: 100%;
+	max-width: 1200px;
 	float: none;
 }
 
