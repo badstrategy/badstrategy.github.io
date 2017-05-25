@@ -108,9 +108,8 @@ ul li {
 
 #three_column {
 	background-color: #ffffff;
-	border: 3px #808080 solid;
-	max-width: 1200px;
-	float: left;
+	max-width: 100%;
+	float: none;
 }
 
 .clearfix:after {
