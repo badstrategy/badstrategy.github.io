@@ -129,7 +129,7 @@ ul li {
 	height: 0;
 }
 
-@media only screen and (max-width: 1055px) {
+@media only screen and (max-width: 1099px) {
 	header {
 		max-width: 100%;
 	}
@@ -143,6 +143,10 @@ ul li {
 		text-align: center;
 		max-width: 100%;
 		padding: 0px;
+}
+
+.navigation-bar {
+	padding: 0px;
 }
 
 .wrapper {
