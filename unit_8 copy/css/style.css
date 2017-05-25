@@ -179,9 +179,5 @@ section, div  {
 
 ul li {
 	width: 100%;
-	display: inline;
+	display: block;
 }
-
-	#three_column {
-		display: inline;
-	}
