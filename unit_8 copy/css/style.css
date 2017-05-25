@@ -173,14 +173,15 @@ ul {
 	padding: 0em 1em 0em 1em;
 }
 
-ul li {
-	width: 305px;
-	display: inline;
-}
-
 section, div  {
 	padding: 0px;
 }
 
 .list {
 	width: 310px;
+}
+
+	ul li {
+		width: inherit;
+		display: inline;
+	}
