@@ -179,7 +179,7 @@ section, div  {
 
 ul li {
 	width: inherit;
-	display: block;
+	display: inline;
 }
 
 	#three_column {
