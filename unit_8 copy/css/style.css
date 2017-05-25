@@ -153,3 +153,11 @@ ul li {
 	width: 100%;
 	margin: 0 auto;
 }
+
+#three_column {
+	max-width: 100%;
+}
+
+.navigation-bar {
+	height: 40px;
+}
