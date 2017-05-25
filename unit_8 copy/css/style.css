@@ -170,7 +170,8 @@ p {
 }
 
 ul {
-	padding: 0em 1em 0em 1em;
+	padding: 0px;
+	width: 100%;
 }
 
 section, div  {
@@ -180,4 +181,5 @@ section, div  {
 ul li {
 	width: 100%;
 	display: block;
+	padding: 0px;
 }
