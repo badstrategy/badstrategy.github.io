@@ -130,6 +130,10 @@ ul li {
 }
 
 @media only screen and (max-width: 1099px) {
+	section, div  {
+		padding: 0px;
+	}
+
 	header {
 		max-width: 100%;
 	}
