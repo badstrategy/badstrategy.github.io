@@ -18,7 +18,7 @@ footer  {
 }
 
 section, div  {
-	padding: 20px 0px 20px 0px;
+	padding: 10px 0px 10px 0px;
 	display: block;
 	margin: auto;
 }
@@ -52,11 +52,11 @@ p {
 	font-style:;
 	font-size:;
 	color: #000000;
-	padding: 2em;
+	padding: 0em 2em;
 }
 
 ul {
-	padding: 2em;
+	padding: 0em 2em;
 }
 
 ul li {
