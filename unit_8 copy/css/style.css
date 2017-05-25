@@ -161,7 +161,7 @@ ul li {
 }
 
 @media only screen and (max-width: 960px) {
-	h2 {
+h2 {
 		padding-left: 1em;
 }
 
@@ -177,11 +177,11 @@ section, div  {
 	padding: 0px;
 }
 
-.list {
-	width: 310px;
+ul li {
+	width: inherit;
+	display: block;
 }
 
-	ul li {
-		width: inherit;
+	#three_column {
 		display: inline;
 	}
