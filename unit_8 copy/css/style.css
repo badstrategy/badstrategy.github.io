@@ -129,6 +129,19 @@ ul li {
 	height: 0;
 }
 
-@media only screen and (max-width: 975px) {
+@media only screen and (max-width: 1030px) {
+	header {
+		padding: 20px 0px 20px 0px;
+		max-width: 100%;
+	}
 
+	nav {
+		padding: 20px;
+		max-width: 100%;
+	}
+
+	footer  {
+		padding: 20px 20px 0px 20px;
+		text-align: center;
+		max-width: 100%;
 }
