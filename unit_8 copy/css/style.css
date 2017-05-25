@@ -51,12 +51,12 @@ p {
 	font-family: 'Open Sans', sans-serif;
 	font-style:;
 	font-size:;
-	color: #000000;
+	color: #000000
+	padding: 2em;
 }
 
 ul {
 	padding: 2em;
-	
 }
 
 ul li {
@@ -65,7 +65,7 @@ ul li {
 	width: 30%;
 	display: inline-block;
 	vertical-align: top;
-	padding: 2%;
+	padding: 0px;
 }
 
 .services {
