@@ -101,8 +101,9 @@ ul li {
 
 .navigation-bar {
 	width: 100%;
-	height: 65px;
+	height: 45px;
 	color: #808080;
+	padding: 0px;
 }
 
 #logo {
@@ -149,10 +150,6 @@ ul li {
 		padding: 0px;
 }
 
-.navigation-bar {
-	padding: 0px;
-}
-
 .wrapper {
 	width: 100%;
 	margin: 0 auto;
@@ -160,10 +157,6 @@ ul li {
 
 #three_column {
 	max-width: 100%;
-}
-
-.navigation-bar {
-	height: 40px;
 }
 }
 
