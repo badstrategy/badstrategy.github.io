@@ -160,11 +160,11 @@ ul li {
 }
 }
 
-@media only screen and (max-width: 965px) {
+@media only screen and (max-width: 960px) {
 ul {
 	padding: 0px;
 }
 
 ul li {
-	width: 30%;
+	width: 324px;
 }
