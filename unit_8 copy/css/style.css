@@ -178,7 +178,7 @@ section, div  {
 }
 
 ul li {
-	width: inherit;
+	width: 100%;
 	display: inline;
 }
 
