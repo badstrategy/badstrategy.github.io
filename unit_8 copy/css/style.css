@@ -167,6 +167,7 @@ ul {
 
 ul li {
 	width: 320px;
+	display: inline;
 }
 
 section, div  {
